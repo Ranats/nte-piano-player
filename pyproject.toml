@@ -1,0 +1,13 @@
+[project]
+name = "nte-piano-player"
+version = "0.1.0"
+description = "Local Windows helper that converts MIDI or MusicXML into NTE piano keyboard input."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [
+    { name = "NTE Piano Player contributors" },
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
