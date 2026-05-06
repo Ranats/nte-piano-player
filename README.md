@@ -7,6 +7,8 @@ input for the piano UI.
 This project is not affiliated with, endorsed by, or sponsored by the NTE
 developers or publishers.
 
+![NTE Piano Player demo](assets/nte-piano-player-demo.gif)
+
 This project is for the piano entertainment content only. It does not automate
 movement, combat, rewards, collection, multiplayer behavior, or any other
 gameplay progression.
@@ -157,6 +159,11 @@ Out of scope:
 - Reward, combat, movement, farming, or progression automation.
 - Memory reading/writing, DLL injection, reverse engineering, or network hooks.
 - Bundling copyrighted song exports in the repository.
+
+## Support
+
+If this helps you enjoy the NTE piano content, optional support is welcome:
+[Ko-fi](https://ko-fi.com/ranats).
 
 ## License
 
