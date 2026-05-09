@@ -1,5 +1,7 @@
 # NTE Piano Player
 
+[![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ranats)
+
 Unofficial local Windows helper for the NTE: Neverness to Everness in-game
 piano. It converts MIDI or MusicXML scores into normal foreground keyboard
 input for the piano UI.
@@ -163,7 +165,7 @@ Out of scope:
 ## Support
 
 If this helps you enjoy the NTE piano content, optional support is welcome:
-[Ko-fi](https://ko-fi.com/ranats).
+[support development on Ko-fi](https://ko-fi.com/ranats).
 
 ## License
 
