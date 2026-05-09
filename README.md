@@ -1,6 +1,11 @@
 # NTE Piano Player
 
-[![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ranats)
+[![Tests](https://github.com/Ranats/nte-piano-player/actions/workflows/tests.yml/badge.svg)](https://github.com/Ranats/nte-piano-player/actions/workflows/tests.yml)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](pyproject.toml)
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](README.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Ranats)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-ff5e5b?logo=kofi&logoColor=white)](https://ko-fi.com/ranats)
 
 Unofficial local Windows helper for the NTE: Neverness to Everness in-game
 piano. It converts MIDI or MusicXML scores into normal foreground keyboard
@@ -165,7 +170,8 @@ Out of scope:
 ## Support
 
 If this helps you enjoy the NTE piano content, optional support is welcome:
-[support development on Ko-fi](https://ko-fi.com/ranats).
+[GitHub Sponsors](https://github.com/sponsors/Ranats) or
+[Ko-fi](https://ko-fi.com/ranats).
 
 ## License
 
