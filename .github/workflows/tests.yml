@@ -21,4 +21,4 @@ jobs:
           python-version: "3.12"
 
       - name: Run tests
-        run: python -m pytest -q
+        run: python -m unittest -v
